@@ -17,5 +17,10 @@ This is a simple React app built using Vite and styled with Tailwind CSS. The ob
 - Using props to pass data to child components.
 
 
-![image](https://github.com/user-attachments/assets/87f00ab6-c5f0-4d37-bc5e-5455b451e0ac)
+![Screenshot 2024-11-25 172630](https://github.com/user-attachments/assets/26120071-4e41-4442-a41c-17dd20c17230)
+
+
+# Challenges Faces
+Working on this project with React & Tailwind was a challenging experience. I struggled to fully understand the concepts, even after watching the tutorial video, which left me feeling unsure about certain parts of the process. I also faced difficulties with some GitHub features, as I wasn’t entirely confident in navigating and using them effectively. Additionally, when I tried to edit the CSS of the app, the changes were not displaying correctly on the localhost, which added to my confusion. However, despite these challenges, the experience helped me identify areas where I need to improve, particularly in understanding the interaction between React, Tailwind CSS, and GitHub.
+
 
