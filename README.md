@@ -17,4 +17,5 @@ This is a simple React app built using Vite and styled with Tailwind CSS. The ob
 - Using props to pass data to child components.
 
 
+![image](https://github.com/user-attachments/assets/87f00ab6-c5f0-4d37-bc5e-5455b451e0ac)
 
