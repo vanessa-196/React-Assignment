@@ -24,4 +24,3 @@ This is a simple React app built using Vite and styled with Tailwind CSS. The ob
 - Working on this project with React & Tailwind was a challenging experience. I struggled to fully understand the concepts, even after watching the tutorial video, which left me feeling unsure about certain parts of the process. I also faced difficulties with some GitHub features, as I wasn’t entirely confident in navigating and using them effectively. Additionally, when I tried to edit the CSS of the app, the changes were not displaying correctly on the localhost, which added to my confusion (For example, in my index.css, the bg-color is set to blue but on my app it appears as white as can be seen on the screenshot above). 
 - However, despite these challenges, the experience helped me identify my strenghts and the areas where I need to improve, particularly in understanding the interaction between React, Tailwind CSS, and GitHub.
 
-
